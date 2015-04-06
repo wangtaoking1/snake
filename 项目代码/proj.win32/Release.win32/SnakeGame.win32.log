@@ -1,0 +1,33 @@
+﻿生成启动时间为 2013/5/7 0:47:59。
+     1>项目“D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\MyProject\SnakeGame\proj.win32\SnakeGame.win32.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release.win32\SnakeGame.win32.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /I..\Classes /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx\include" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx\kazmath\include" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx\platform\win32" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx\platform\third_party\win32" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\cocos2dx\platform\third_party\win32\OGLES" /I"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\CocosDenshion\include" /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D _WINDOWS /D STRICT /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGSNDEBUG /D _UNICODE /D UNICODE /Gm- /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release.win32\\" /Fd"Release.win32\vc110.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\Program Files\Microsoft Visual Studio 11.0\VC\include\xlocale(336): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\Release.win32\SnakeGame.win32.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\Release.win32\\" libcocos2d.lib opengl32.lib glew32.lib libCocosDenshion.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\Release.win32\SnakeGame.win32.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\Release.win32\SnakeGame.win32.lib" /MACHINE:X86 /SAFESEH Release.win32\SnakeGame.res
+         Release.win32\AppDelegate.obj
+         Release.win32\ControlLayer.obj
+         Release.win32\EarthSnake.obj
+         Release.win32\EndLayer.obj
+         Release.win32\Food.obj
+         Release.win32\GameLayer.obj
+         Release.win32\GameMap.obj
+         Release.win32\GameScene.obj
+         Release.win32\Global.obj
+         Release.win32\IntroScene.obj
+         Release.win32\main.obj
+         Release.win32\MarsSnake.obj
+         SnakeGame.win32.vcxproj -> D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\Release.win32\SnakeGame.win32.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release.win32\SnakeGame.win32.unsuccessfulbuild”。
+         正在对“Release.win32\SnakeGame.win32.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\cocos2d-2.1beta3-x-2.1.1\cocos2d-2.1beta3-x-2.1.1\MyProject\SnakeGame\proj.win32\SnakeGame.win32.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.83

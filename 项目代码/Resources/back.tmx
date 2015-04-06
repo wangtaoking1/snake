@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="20" tileheight="20">
+ <tileset firstgid="1" name="map1" tilewidth="600" tileheight="600">
+  <image source="map1.jpg" width="600" height="600"/>
+ </tileset>
+ <tileset firstgid="2" name="cao" tilewidth="20" tileheight="20">
+  <image source="cao.png" width="25" height="25"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzSEBAAAAAiD9f9oZFjhAAgAAwFNP7wAOiAAC
+  </data>
+ </layer>
+ <layer name="grass" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFxAImIjCl5g8EGLV31N6BtJfa7hsoe4kFhOyllbtG7SVdnpxyfqj6l1b2joKBBYO1nCPWDFLbWEPZv7QEIy1cRu0lHQAAL4UAaw==
+  </data>
+ </layer>
+</map>
